@@ -4,14 +4,14 @@
 
 <!-- ПЕРСОНАЖ (Слева) -->
 <!-- width="300" - это размер персонажа, можешь менять цифру -->
-<img align="left" width="300" src="ССЫЛКА_НА_ТВОЮ_КАРТИНКУ" alt="My Character" style="padding-right: 20px;" />
+<img align="left" width="300" src="./kayfen1075.png" alt="My Character" style="padding-right: 20px;" />
 
 <!-- СТАТИСТИКА (Справа) -->
 <div align="right">
   
   <!-- Общая статистика -->
   <img src="https://github-readme-stats.vercel.app/api?username=KayFen1075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayFen1075)](https://github.com/anuraghazra/github-readme-stats)
   <br/> <br/>
 
   <!-- Топ Языков -->

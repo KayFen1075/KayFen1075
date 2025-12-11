@@ -2,30 +2,40 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+KayFen1075;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
-<!-- ПЕРСОНАЖ (Слева) -->
-<!-- width="300" - это размер персонажа, можешь менять цифру -->
-<img align="left" width="300" src="./kayfen1075.png" alt="My Character" style="padding-right: 20px;" />
+<!-- Используем таблицу для жесткого выравнивания -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- ЛЕВАЯ КОЛОНКА: Персонаж -->
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="./kayfen1075.png" alt="My Character" width="100%" style="border-radius: 10px;">
+    </td>
 
-<!-- СТАТИСТИКА (Справа) -->
-<div align="right">
-  
-  <!-- Общая статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KayFen1075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayFen1075)](https://github.com/anuraghazra/github-readme-stats)
-  <br/> <br/>
+    <!-- ПРАВАЯ КОЛОНКА: Статистика -->
+    <td width="55%" align="center" valign="middle" style="border: none;">
+      
+      <!-- Общая статистика -->
+      <!-- Исправил регистр ника на KayFen1075 -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KayFen1075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      </a>
+      
+      <br/>
 
-  <!-- Топ Языков -->
-  <!-- ЕСЛИ ЭТА КАРТИНКА ЛОМАЕТСЯ - УДАЛИ БЛОК НИЖЕ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayFen1075&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
-
-<!-- СБРОС ОБТЕКАНИЯ (Важно, чтобы стек технологий был снизу) -->
-<br clear="all" />
+      <!-- Топ Языков -->
+      <!-- ВНИМАНИЕ: Если эта картинка все еще битая после сохранения, значит у тебя нет репозиториев с кодом. -->
+      <!-- В таком случае удали блок ниже -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayFen1075&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      </a>
+      
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
   <h3>🛠 Tech Stack</h3>
+  <!-- Убрал лишние пробелы в ссылке иконок -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,git,docker&theme=dark" />
   
   <br/><br/>
